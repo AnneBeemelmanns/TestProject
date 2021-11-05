@@ -3,9 +3,9 @@ This is a test to learn github with our tutor Eric
 
 #bisulfite sequencing pipeline
 
-**bold
+**bold**
 
-*italic
+*italic*
 
 ```bash
 -script1
